@@ -14,7 +14,8 @@
     "he": "^1.1.0",
     "lodash": "^4.14.1",
     "phridge": "^2.0.0",
-    "signal-exit": "^3.0.0"
+    "signal-exit": "^3.0.0",
+    "validator": "^7.0.0"
   },
   "devDependencies": {
     "mocha": "^3.0.1",
